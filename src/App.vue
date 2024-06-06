@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="bg-sky-300 bg-opacity-75" >
+   
     <MapViewVue />
   </div>
 </template>
@@ -23,6 +24,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>
