@@ -1,5 +1,6 @@
 <template>
     <div class="w-screen h-screen" >
+      <!---map--->
       <l-map @ready="onReady" 
        @locationfound="onLocationFound" 
        
